@@ -349,11 +349,3 @@ class programa:
 
             case _:
                 input("Esa opcion no esta dentro de las espesificadas") 
-
-#len() = Conteo de caracteres
-# rjust = Justufucacion == padleft
-#round() = Para redondear un valor
-# lower() == tolower minuscula
-# strip() == trim() eliminar espacios
-# index() == IndexOfAny()
-# rindex() == lastIndexOf()
